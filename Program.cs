@@ -19,7 +19,7 @@ namespace ListadoUsuarioTesco
             };
 
 
-           Console.WriteLine("Introduzca el nombre del nuevo trabajador: ");
+           Console.WriteLine("Introduzca el nombre del nuevo trabajador XD: ");
            string name;
            name=Console.ReadLine();
            Console.WriteLine("Introduce el apellido del trabajador: ");
