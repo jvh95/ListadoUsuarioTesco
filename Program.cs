@@ -8,11 +8,11 @@ namespace ListadoUsuarioTesco
         static void Main(string[] args)
         {
             var lista = new List<Trabajador>() {
-                new Trabajador("Cristian", "Gonzalez", new DateTime(2015,8,3)),
-                new Trabajador("Miguel", "Sanchez", new DateTime(2018,11,05)),
-                new Trabajador("Luis", "Vega", new DateTime(2018,6,15)),
-                new Trabajador("Manuel", "Gonzalez", new DateTime(2016,1,12)),
-                new Trabajador("Fran", "Villarejo", new DateTime(2014,9,15))
+                new Trabajador("Pepe", "Gonzalez", new DateTime(2015,8,3)),
+                new Trabajador("Zol", "Sanchez", new DateTime(2018,11,05)),
+                new Trabajador("Deis", "Vega", new DateTime(2018,6,15)),
+                new Trabajador("ZLM", "Gonzalez", new DateTime(2016,1,12)),
+                new Trabajador("LOKO", "Villarejo", new DateTime(2014,9,15))
                 
 
              
